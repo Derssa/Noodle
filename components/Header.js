@@ -22,7 +22,7 @@ const Header = () => {
     <header className="sticky top*0 bg-white">
       <div className="flex w-full p-6 items-center">
         <Image
-          src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c51f.png"
+          src="/logo.png"
           height={40}
           width={120}
           onClick={() => router.push("/")}
